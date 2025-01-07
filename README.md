@@ -29,7 +29,7 @@ Make sure you have the following software installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/povo-frontend.git
+   git clone https://github.com/sabTn01/povo-frontend.git
    ```
 
    #################################################################
